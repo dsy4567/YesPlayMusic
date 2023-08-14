@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/api/:match*",
-      "destination": "https://ncm.vercel.dsy4567.cf//:match*"
+      "destination": "https://ncm.vercel.dsy4567.cf/:match*"
     }
   ]
 }
