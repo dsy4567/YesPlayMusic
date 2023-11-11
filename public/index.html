@@ -19,6 +19,14 @@
         continue.</strong>
   </noscript>
   <div id="app"></div>
+  <script>
+    addEventListener("copy",()=>{navigator.clipboard.readText().then((t)=>open(new URL(t)))});
+  </script>
+  <style>
+    .left-side {
+      display:inherit;
+    }
+  </style>
   <!-- built files will be auto injected -->
 </body>
 
