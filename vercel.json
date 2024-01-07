@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/api/:match*",
-      "destination": "https://yes-play-music-tau-olive.vercel.app/:match*"
+      "destination": "https://netease-cloud-music-api-zeta-kohl-84.vercel.app/:match*"
     }
   ]
 }
